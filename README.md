@@ -1,2 +1,6 @@
 # ComputerBooks
-分享一些计算机相关书籍，方便下载
+分享一些计算机相关书籍，方便下载  
+- Java
+- JVM
+- JavaScript
+- 开发外
